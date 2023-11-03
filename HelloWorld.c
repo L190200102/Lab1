@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, world!\n");
+    printf("L190200102\n");
     return 0;
 }
